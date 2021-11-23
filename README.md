@@ -34,7 +34,7 @@ screenshotOrderSummaryCard.png
 ### Links
 
 - Solution URL: [https://github.com/ManuelFernandezEsteban/OrderSummaryComponent.git](https://github.com/ManuelFernandezEsteban/OrderSummaryComponent.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://manuelfernandezesteban.github.io/OrderSummaryComponent/](https://manuelfernandezesteban.github.io/OrderSummaryComponent/)
 
 ## My process
 
